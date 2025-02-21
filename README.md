@@ -1,5 +1,5 @@
 # vue2-project
-
+用于测试、学习等demo项目模板（Vue2）
 ## Project setup
 ```
 npm install
